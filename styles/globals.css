@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab:wght@300;500;600&display=swap');
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body {
+  font-family: 'Raleway', sans-serif;
+}
+
+.container-alt {
+  display: flex;
+  min-height: 100vh;
+  margin: 0;
+  padding: 0;
+}
+
+.max {
+  border: 2px solid #e0e0e0;
+}
+
+.text-xsm {
+  font-size: .6rem;
+}
